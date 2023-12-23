@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+}
+
+
+
+mat-nav-list a {
+  color: grey;
+}
+
+mat-nav-list a:hover,
+mat-nav-list a:active {
+  color: lightgray;
+}
